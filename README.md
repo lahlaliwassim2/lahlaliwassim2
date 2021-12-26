@@ -3,10 +3,8 @@
  👉🏻 I'm Learning web development at [YouCode.ma](https://youcode.ma/) 👨‍💻
 ## 🛠 Skills
 Langage C , HTML, CSS...
-## QUOTE
-“N’importe quel idiot peut écrire du code qu'un ordinateur peut comprendre. Les bons programmeurs écrivent du code que les humains peuvent comprendre.” - Martin Fowler
 
-
+<img src="https://github.com/aymanebenhima/aymanebenhima/blob/master/cover-compressor.png" alt="coverture of my demo"/>
 
 I am a web developer, ambitious person who has developed a mature and responsible approach to any task I undertake, or situation that I am presented with. As a graduate with two years of experience in web development. I am excellent at working with others to achieve a certain objective on time and with excellence. 
 
@@ -68,6 +66,27 @@ username=lahlaliwassim2&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&ar
 <p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lahlaliwassim2&show_icons=true&locale=en&layout=compact" alt="Kazi Mahbubur Rahman" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=NoobMahbub&show_icons=true&locale=en" alt="Kazi Mahbubur Rahman" /></p>
+
+
+
+### Connect with me:
+
+[<img align="left" alt="TechHelpBD.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Kazi Mahbubur Rahman | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />][facebook]
+[<img align="left" alt="Kazi Mahbubur Rahman | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Kazi Mahbubur Rahman | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Kazi Mahbubur Rahman | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />][telegram]
+[<img align="left" alt="nahidhassanbulbul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Kazi Mahbubur Rahman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+[website]: https://TechHelpBD.com
+[facebook]: https://facebook.com/MahbubDev
+[twitter]: https://twitter.com/mahbubdev
+[youtube]: https://youtube.com/TechHelpBangladesh
+[instagram]: https://instagram.com/mahbubdev/
+[linkedin]: https://linkedin.com/in/mahbubdev
+[telegram]: https://t.me/TechHelpBangladesh
 
 
 
