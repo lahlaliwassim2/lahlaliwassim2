@@ -7,6 +7,7 @@ Langage C , HTML, CSS...
 “N’importe quel idiot peut écrire du code qu'un ordinateur peut comprendre. Les bons programmeurs écrivent du code que les humains peuvent comprendre.” - Martin Fowler
 
 
+
 I am a web developer, ambitious person who has developed a mature and responsible approach to any task I undertake, or situation that I am presented with. As a graduate with two years of experience in web development. I am excellent at working with others to achieve a certain objective on time and with excellence. 
 
 [![lahlaliwassim2 github activity graph](https://activity-graph.herokuapp.com/graph?
@@ -67,4 +68,6 @@ username=lahlaliwassim2&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&ar
 <p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lahlaliwassim2&show_icons=true&locale=en&layout=compact" alt="Kazi Mahbubur Rahman" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=NoobMahbub&show_icons=true&locale=en" alt="Kazi Mahbubur Rahman" /></p>
+
+
 
