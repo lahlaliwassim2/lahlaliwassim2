@@ -1,10 +1,6 @@
 
 I am a web developer, ambitious person who has developed a mature and responsible approach to any task I undertake, or situation that I am presented with. As a graduate with two years of experience in web development. I am excellent at working with others to achieve a certain objective on time and with excellence. 
 
-[![lahlaliwassim2 github activity graph](https://activity-graph.herokuapp.com/graph?
-username=lahlaliwassim2&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/lahlaliwassim2/github-readme-activity-graph)
-
-
 
 <img align="right" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
 
@@ -54,7 +50,8 @@ username=lahlaliwassim2&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&ar
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=lahlaliwassim2.visitor-badge&left_color=blue&right_color=yellow)
 <br />
 
-
+[![lahlaliwassim2 github activity graph](https://activity-graph.herokuapp.com/graph?
+username=lahlaliwassim2&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/lahlaliwassim2/github-readme-activity-graph)
 
 <p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lahlaliwassim2&show_icons=true&locale=en&layout=compact" alt="Kazi Mahbubur Rahman" /></p>
 
