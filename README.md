@@ -2,7 +2,7 @@ Hello World 👋
 <p>
 👉🏻 hi I'm Wassim Lahlali
   <p>
- **👉🏻 I'm Learning web development at [YouCode.ma](https://youcode.ma/) 👨‍💻💻**
+ 👉🏻 I'm Learning web development at [YouCode.ma] (https://youcode.ma/) 👨‍💻
 
 
 <img align="right" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
