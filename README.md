@@ -20,11 +20,11 @@
 <a href="https://nuxtjs.org/" target="_blank"> <img src="https://develop365.gitlab.io/nuxtjs-2.3.X-doc/es/logos/nuxt-icon-white.png" alt="nuxt" width="50" height="50"/> </a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>
-<a href="https://php-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a>
+
 
 <h3 align="left">Backend</h3>
 
-
+<a href="https://php-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a>
 
 
 
