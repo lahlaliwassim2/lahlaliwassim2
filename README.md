@@ -25,7 +25,8 @@
 
 <a href="https://php-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a>
 
-👩‍💻 I'm currently working on dynamic sites
+👩‍💻 I'm currently working on dynamic sites 
+👩‍� <br>
 🧠 I'm currently learning php ,mysql
 
 <h3 align="left">Support:</h3>
