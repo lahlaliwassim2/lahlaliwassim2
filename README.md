@@ -21,7 +21,11 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 <h3 align="left">Basic</h3>
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+
+
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp; </br>
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp; </br>
+
 👩‍💻 I'm currently working on dynamic sites 
 👩‍� <br>
 🧠 I'm currently learning php ,mysql
