@@ -36,10 +36,10 @@
 <h3 align="left">Support:</h3>
 
 <p>
-<a href="https://www.instagram.com/youcodeschool/"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wassim.lahlali" /></a></p><br><br><br>
+<a href="https://www.instagram.com/wassim.lah/"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wassim.lahlali" /></a></p><br><br><br>
 
 ### Profile Visitors 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=IronSteel007.visitor-badge&left_color=blue&right_color=yellow)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=lahlaliwassim2.visitor-badge&left_color=blue&right_color=yellow)
 <br />
 
 [![lahlaliwassim2 github activity graph](https://activity-graph.herokuapp.com/graph?username=lahlaliwassim2&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/lahlaliwassim2/github-readme-activity-graph)
