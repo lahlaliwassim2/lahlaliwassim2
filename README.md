@@ -43,7 +43,7 @@
 
 ### Profile Visitors 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=lahlaliwassim2.visitor-badge&left_color=blue&right_color=yellow)
-<br />
+
 
 [![lahlaliwassim2 github activity graph](https://activity-graph.herokuapp.com/graph?username=lahlaliwassim2&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/lahlaliwassim2/github-readme-activity-graph)
 
