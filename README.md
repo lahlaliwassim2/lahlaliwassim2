@@ -1,5 +1,5 @@
 # Hello World 👋
-<img align="right" src=<img align="right" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
+<img align="right" src=<img align="right" src="[https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif](https://mrcircuspoliticus.files.wordpress.com/2017/04/gif-9.gif)">
  👉🏻 I'm Wassim Lahlali      
  👉🏻 I'm Learning web development at [YouCode.ma](https://youcode.ma/) 👨‍💻 <p>
  👩‍💻 I'm currently working on dynamic sites 
