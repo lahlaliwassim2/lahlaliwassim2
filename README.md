@@ -1,6 +1,6 @@
 
 # Hello World 👋
-<img width="100%" align="center" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" alt="lahlaliwassim2" />
+<img width="100%" align="center" src="https://developers.giphy.com/docs/api" alt="lahlaliwassim2" />
  👉🏻 I'm Wassim Lahlali      
  👉🏻 I'm Learning web development at [YouCode.ma](https://youcode.ma/) 👨‍💻 <p>
  👩‍💻 I'm currently working on dynamic sites 
