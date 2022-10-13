@@ -10,7 +10,6 @@
 
 
 
-<img align="right" src=" https://www.cjoint.com/c/LJnpkZxC6oK">
 
 
 
