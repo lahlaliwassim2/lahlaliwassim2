@@ -8,7 +8,7 @@
 - 📫 How to reach me **wlahlali343@gmail.com** </br>!I'll try to respond as soon as I can.
 
 
-
+<img align="right" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
 
 
 
