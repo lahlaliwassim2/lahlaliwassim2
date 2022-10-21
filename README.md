@@ -1,11 +1,13 @@
 
 # Hello World 👋
+<img align="right" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
  👉🏻 I'm Wassim Lahlali      </br>
  👉🏻 I'm Learning web development at [YouCode.ma]  👨‍💻 <p>
  👩‍💻 I'm currently working on dynamic sites 
  👩‍� <br>
 - 📫 How to reach me **wlahlali343@gmail.com** </br>!I'll try to respond as soon as I can.
-<img align="right" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif"></br>
+
+
 
 
 
