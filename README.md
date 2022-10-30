@@ -1,14 +1,22 @@
 
-# Hello World 👋
-<img align="right" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
- 👉🏻 I'm Wassim Lahlali      </br>
- 👉🏻 I'm Learning web development at [YouCode.ma]  👨‍💻 <p>
- 👩‍💻 I'm currently working on dynamic sites 
- 👩‍� <br>
-- 📫 How to reach me **wlahlali343@gmail.com** </br>!I'll try to respond as soon as I can.
+Web and mobile Programmer | Web and mobile Designer | Learner | Researcher
 
+</h3>
 
+- 🔭 I’m currently working on **Web and mobile Development**
 
+- 🌱 I’m currently learning **c html css js php**
+
+- 👯 I’m looking to collaborate on **Open Source**
+
+- 💬 Ask me about **Anything**
+
+- 📫 How to reach me **wlahlali343@gmail.com**
+
+- ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
+
+## 🚀 About Me
+I'm a full stack developer...
 
 
 
