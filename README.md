@@ -5,8 +5,6 @@ Web and mobile Programmer | Web and mobile Designer | Learner | Researcher
 
 - 🔭 I’m currently working on **Web and mobile Development**
 
-- 👯 I’m looking to collaborate on **Open Source**
-
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **wlahlali343@gmail.com**
