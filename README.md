@@ -62,7 +62,7 @@ I'm a full stack developer...
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=lahlaliwassim2&show_icons=true&locale=en" alt="lahlaliwassim2" /></p>
 
 
-[<img   width="100%" align="right" alt="🦑" src="https://user-images.githubusercontent.com/22963968/159836902-a7553777-f1e2-49ed-90fc-9721322b3f44.png">](#)
+
 
  
 
